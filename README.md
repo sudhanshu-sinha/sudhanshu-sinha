@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
+🔭 I’m currently working as **Computer Science Student @ Chandigarh University**
+- 🌱 I’m currently learning **Node Js**
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about **Web Development**
+- 📫 How to reach me:
+  **[LinkedIn](https://linkedin.com/in/sinha-sudhanshu), [Instagram](https://instagram.com/__Sudhanshu_sinha)**
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__Sudhanshu_sinha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sinha-sudhanshu) 
