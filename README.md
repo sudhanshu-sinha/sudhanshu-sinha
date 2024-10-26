@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=gkhan205)](https://github.com/sudhanshu-sinha/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sudhanshu-sinha)](https://github.com/sudhanshu-sinha/github-profile-trophy)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
