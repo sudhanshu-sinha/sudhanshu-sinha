@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sudhanshu-sinha&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu-sinha&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sudhanshu-sinha&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
