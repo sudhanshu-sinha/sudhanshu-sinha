@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-🔭 I’m currently working as **Computer Science Student @ Chandigarh University**
 - 🌱 I’m currently learning **Node Js**
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about **Web Development**
